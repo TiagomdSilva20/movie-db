@@ -1,0 +1,44 @@
+# People (name,nationality)
+PERSON,Roger Vadim,French
+PERSON,John McTiernan,American
+PERSON,George Lucas,American
+PERSON,Francis Ford Coppola,American
+PERSON,Frank Darabont,American
+PERSON,Quentin Tarantino,American
+PERSON,Christopher Nolan,British-American
+PERSON,Hayao Miyazaki,Japanese
+PERSON,Bong Joon-ho,South Korean
+PERSON,Peter Jackson,New Zealander
+PERSON,Jane Fonda,American
+PERSON,David Hemmings,British
+PERSON,Bruce Willis,American
+PERSON,Alan Rickman,British
+PERSON,Mark Hamill,American
+PERSON,Harrison Ford,American
+PERSON,Marlon Brando,American
+PERSON,Al Pacino,American
+PERSON,Tim Robbins,American
+PERSON,Morgan Freeman,American
+PERSON,John Travolta,American
+PERSON,Samuel L. Jackson,American
+PERSON,Leonardo DiCaprio,American
+PERSON,Joseph Gordon-Levitt,American
+PERSON,Rumi Hiiragi,Japanese
+PERSON,Miyu Irino,Japanese
+PERSON,Song Kang-ho,South Korean
+PERSON,Choi Woo-shik,South Korean
+PERSON,Elijah Wood,American
+PERSON,Ian McKellen,British
+
+# Movies (title,director,length_in_seconds,actor1;actor2;actor3;...)
+MOVIE,Barbarella,Roger Vadim,5880,Jane Fonda;David Hemmings
+MOVIE,Die Hard,John McTiernan,7920,Bruce Willis;Alan Rickman
+MOVIE,Star Wars: Episode IV - A New Hope,George Lucas,7260,Mark Hamill;Harrison Ford
+MOVIE,The Godfather,Francis Ford Coppola,10500,Marlon Brando;Al Pacino
+MOVIE,The Shawshank Redemption,Frank Darabont,8520,Tim Robbins;Morgan Freeman
+MOVIE,Pulp Fiction,Quentin Tarantino,9240,John Travolta;Samuel L. Jackson;Bruce Willis
+MOVIE,Inception,Christopher Nolan,8880,Leonardo DiCaprio;Joseph Gordon-Levitt
+MOVIE,Spirited Away,Hayao Miyazaki,7500,Rumi Hiiragi;Miyu Irino
+MOVIE,Parasite,Bong Joon-ho,7920,Song Kang-ho;Choi Woo-shik
+MOVIE,The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,10680,Elijah Wood;Ian McKellen
+
